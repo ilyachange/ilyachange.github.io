@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "e69ccba9d1112063506af1188c9d2c9f",
-"index.html": "49425c57600667d4b7e92f094128b4c4",
-"/": "49425c57600667d4b7e92f094128b4c4",
+"index.html": "df7d6653b23eee6b247431db5c5d92bd",
+"/": "df7d6653b23eee6b247431db5c5d92bd",
 "main.dart.js": "f959715270fe7595facc5f5b9eff83d4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -31,11 +31,7 @@ const RESOURCES = {
 "assets/assets/fonts/Lufga-Black.otf": "42b5e92bff06b396d7e764d0357e51a1",
 "assets/assets/fonts/Lufga-SemiBold.otf": "08f121435fcdd9e555cb4a32a872a854",
 "assets/assets/fonts/Lufga-Medium.otf": "8ef8c8ec033a37766961d03626d7a125",
-"assets/assets/fonts/Lufga-Regular.otf": "3253434b017e42791b9a15cd46d2c389",
-"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
-"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
-"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
-"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498"
+"assets/assets/fonts/Lufga-Regular.otf": "3253434b017e42791b9a15cd46d2c389"
 };
 
 // The application shell files that are downloaded before a service worker can
